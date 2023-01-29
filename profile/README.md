@@ -4,7 +4,7 @@ Extiri is about making apps that help developers make their apps. Currently, Ext
 # Products
 ### CodeMenu
 CodeMenu is a snippets manager with some additional useful functions, like access to internet code snippets database - Snippets Store, RegEx tester,
-code image generator, unit converters, suggestions directly in your editor, simple access using side window and much more. CodeMenu is currently in
+code image generator, unit converters, suggestions directly in your editor ([using Suggestions app](https://github.com/Extiri/Suggestions)), simple access using side window and much more. CodeMenu is currently in
 beta. Learn more at [its website](https://extiri.com/codemenu.html).
 
 ### Snippets Store
